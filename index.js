@@ -43,7 +43,8 @@ function viewCart() {
 
 function total() {
   // write your code here
-  let totalPrice = 
+  let totalPrice = 0;
+  
 }
 
 function removeFromCart(item) {
